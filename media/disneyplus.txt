@@ -1,0 +1,8 @@
+@@|disney-plus.net^$important
+@@|disneyplus.com^$important
+@@|disney.playback.edge.bamgrid.com^$important
+@@|media.dssott.com^$important
+@@|disneynow.com^$important
+@@|hotstar.com^$important
+@@|star.playback.edge.bamgrid.com^$important
+@@|starplus.com^$important
